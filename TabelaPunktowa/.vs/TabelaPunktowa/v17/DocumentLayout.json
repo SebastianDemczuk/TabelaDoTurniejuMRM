@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\SebiXonX\\Repo\\GitHub\\TabelaDoTurniejuMRM\\TabelaPunktowa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEB1332C-CAAF-408C-961F-00F3E19F6D14}|TabelaPunktowa.vbproj|c:\\users\\sebixonx\\repo\\github\\tabeladoturniejumrm\\tabelapunktowa\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{AEB1332C-CAAF-408C-961F-00F3E19F6D14}|TabelaPunktowa.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TabelaPunktowa||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1332C-CAAF-408C-961F-00F3E19F6D14}|TabelaPunktowa.vbproj|c:\\users\\sebixonx\\repo\\github\\tabeladoturniejumrm\\tabelapunktowa\\pointtable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AEB1332C-CAAF-408C-961F-00F3E19F6D14}|TabelaPunktowa.vbproj|solutionrelative:pointtable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1332C-CAAF-408C-961F-00F3E19F6D14}|TabelaPunktowa.vbproj|c:\\users\\sebixonx\\repo\\github\\tabeladoturniejumrm\\tabelapunktowa\\lemenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AEB1332C-CAAF-408C-961F-00F3E19F6D14}|TabelaPunktowa.vbproj|solutionrelative:lemenu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB1332C-CAAF-408C-961F-00F3E19F6D14}|TabelaPunktowa.vbproj|c:\\users\\sebixonx\\repo\\github\\tabeladoturniejumrm\\tabelapunktowa\\my project\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{AEB1332C-CAAF-408C-961F-00F3E19F6D14}|TabelaPunktowa.vbproj|solutionrelative:my project\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,18 +30,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.vb [Projekt]",
-              "DocumentMoniker": "C:\\Users\\SebiXonX\\Repo\\GitHub\\TabelaDoTurniejuMRM\\TabelaPunktowa\\Form1.vb",
-              "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\SebiXonX\\Repo\\GitHub\\TabelaDoTurniejuMRM\\TabelaPunktowa\\Form1.vb [Projekt]",
-              "RelativeToolTip": "Form1.vb [Projekt]",
+              "Title": "TabelaPunktowa",
+              "DocumentMoniker": "C:\\Users\\SebiXonX\\Repo\\GitHub\\TabelaDoTurniejuMRM\\TabelaPunktowa\\TabelaPunktowa.vbproj",
+              "RelativeDocumentMoniker": "TabelaPunktowa.vbproj",
+              "ToolTip": "C:\\Users\\SebiXonX\\Repo\\GitHub\\TabelaDoTurniejuMRM\\TabelaPunktowa\\TabelaPunktowa.vbproj",
+              "RelativeToolTip": "TabelaPunktowa.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T20:09:09.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointTable.vb [Projekt]",
+              "DocumentMoniker": "C:\\Users\\SebiXonX\\Repo\\GitHub\\TabelaDoTurniejuMRM\\TabelaPunktowa\\PointTable.vb",
+              "RelativeDocumentMoniker": "PointTable.vb",
+              "ToolTip": "C:\\Users\\SebiXonX\\Repo\\GitHub\\TabelaDoTurniejuMRM\\TabelaPunktowa\\PointTable.vb [Projekt]",
+              "RelativeToolTip": "PointTable.vb [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-24T18:19:34.625Z",
+              "WhenOpened": "2024-11-24T19:48:09.387Z",
               "EditorCaption": " [Projekt]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeMenu.vb [Projekt]",
+              "DocumentMoniker": "C:\\Users\\SebiXonX\\Repo\\GitHub\\TabelaDoTurniejuMRM\\TabelaPunktowa\\LeMenu.vb",
+              "RelativeDocumentMoniker": "LeMenu.vb",
+              "ToolTip": "C:\\Users\\SebiXonX\\Repo\\GitHub\\TabelaDoTurniejuMRM\\TabelaPunktowa\\LeMenu.vb [Projekt]",
+              "RelativeToolTip": "LeMenu.vb [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T18:33:58.804Z",
+              "EditorCaption": " [Projekt]"
             }
           ]
         }

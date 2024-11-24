@@ -1,0 +1,16 @@
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPunktowa.vbproj.AssemblyReference.cache
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPunktowa.Info.resources
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPunktowa.LeMenu.resources
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPunktowa.Resources.resources
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPunktowa.vbproj.GenerateResource.cache
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPunktowa.vbproj.CoreCompileInputs.cache
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\bin\Debug\TabelaPunktowa.exe.config
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\bin\Debug\TabelaPunktowa.exe
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\bin\Debug\TabelaPunktowa.pdb
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\bin\Debug\TabelaPunktowa.xml
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\bin\Debug\JacksiroKe.MdiTabCtrl.dll
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPu.1FCE0D6D.Up2Date
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPunktowa.exe
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPunktowa.xml
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPunktowa.pdb
+C:\Users\SebiXonX\Repo\GitHub\TabelaDoTurniejuMRM\TabelaPunktowa\obj\Debug\TabelaPunktowa.PointTable.resources
