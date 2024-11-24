@@ -1,4 +1,4 @@
-# Tabelka do turniejów
+# Tabelka do turniejów (Not finished yet)
 Hello. This is software for displaying a table during tournaments. The project was carried out to create a table displaying the results of matches organized by the ***Młodzieżowa Rada Miasta Biała Podlaska***.
 
 ## Requirements
